@@ -1,6 +1,6 @@
 ### Hi, I'm Rishabh!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-rishabh&layout=compact&theme=tokyonight)](https://github.com/k-rishabh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-rishabh&theme=tokyonight)](https://github.com/k-rishabh)
 
 <!--
 **k-rishabh/k-rishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
